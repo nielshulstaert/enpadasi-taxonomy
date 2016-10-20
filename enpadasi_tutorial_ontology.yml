@@ -19,153 +19,65 @@
   "attributes": {}
   "keywords": {}
   "terms":
-  - "name": "Subject ID"
+  - "name": "TUTORIAL1"
     "title":
-      "en": "SIO_000399"
-    "description":
-      "en": "http://semanticscience.org/resource/SIO_000399"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Subject Species"
-    "title":
-      "en": "NCBITaxon_species"
-    "description":
-      "en": "http://purl.obolibrary.org/obo/NCBITaxon_species"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Subject gender"
-    "title":
-      "en": "PATO_0000047"
-    "description":
-      "en": "http://purl.obolibrary.org/obo/PATO_0000047"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Subject age"
-    "title":
-      "en": "PATO_0000011"
-    "description":
-      "en": "http://purl.obolibrary.org/obo/PATO_0000011"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Subject etnic group"
-    "title":
-      "en": "EFO_0001799"
-    "description":
-      "en": "http://www.ebi.ac.uk/efo/EFO_0001799\n"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Subject waist circumference"
-    "title":
-      "en": "EFO_0004342"
-    "description":
-      "en": "http://www.ebi.ac.uk/efo/EFO_0004342\n"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Weight"
-    "title":
-      "en": "EFO_0004338"
-    "description":
-      "en": "http://www.ebi.ac.uk/efo/EFO_0004338\n"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Hip circumference"
-    "title":
-      "en": "EFO_0005093"
-    "description":
-      "en": "http://www.ebi.ac.uk/efo/EFO_0005093\n"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Waist/hip ratio"
-    "title":
-      "en": "CMO_0000020"
-    "description":
-      "en": "http://purl.obolibrary.org/obo/CMO_0000020\n"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Body height"
-    "title":
-      "en": "EFO_0004339"
-    "description":
-      "en": "http://www.ebi.ac.uk/efo/EFO_0004339\n"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Subject country"
-    "title":
-      "en": "OBI_0001627"
-    "description":
-      "en": "http://purl.obolibrary.org/obo/OBI_0001627\n"
-    "attributes": {}
-    "keywords": {}
-    "terms": []
-  - "name": "Weight"
-    "title":
-      "en": "TUTORIAL1"
+      "en": "Weight"
     "description":
       "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL1\n"
     "attributes": {}
     "keywords": {}
     "terms": []
-  - "name": "Percent fat free mass"
+  - "name": "TUTORIAL2"
     "title":
-      "en": "TUTORIAL2"
+      "en": "Percent fat free mass"
     "description":
       "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL2\n"
     "attributes": {}
     "keywords": {}
     "terms": []
-  - "name": "Resting metabolic rate"
+  - "name": "TUTORIAL3"
     "title":
-      "en": "TUTORIAL3"
+      "en": "Resting metabolic rate"
     "description":
       "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL3\n"
     "attributes": {}
     "keywords": {}
     "terms": []
-  - "name": "maximal oxygen uptake"
+  - "name": "CMO_0000135"
     "title":
-      "en": "CMO_0000135"
+      "en": "maximal oxygen uptake"
     "description":
       "en": "http://purl.obolibrary.org/obo/CMO_0000135\n"
     "attributes": {}
     "keywords": {}
     "terms": []
-  - "name": "Bone mineral density"
+  - "name": "CMO_0001226"
     "title":
-      "en": "CMO_0001226"
+      "en": "Bone mineral density"
     "description":
       "en": "http://purl.obolibrary.org/obo/CMO_0001226\n"
     "attributes": {}
     "keywords": {}
     "terms": []
-  - "name": "Metabolic efficiency"
+  - "name": "TUTORIAL4"
     "title":
-      "en": "TUTORIAL4"
+      "en": "Metabolic efficiency"
     "description":
       "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL4\n"
     "attributes": {}
     "keywords": {}
     "terms": []
-  - "name": "Fat-free mass"
+  - "name": "TUTORIAL5"
     "title":
-      "en": "TUTORIAL5"
+      "en": "Fat-free mass"
     "description":
       "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL5\n"
     "attributes": {}
     "keywords": {}
     "terms": []
-  - "name": "Resting metabolic rate"
+  - "name": "TUTORIAL6"
     "title":
-      "en": "TUTORIAL6"
+      "en": "Resting metabolic rate"
     "description":
       "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL6\n"
     "attributes": {}
