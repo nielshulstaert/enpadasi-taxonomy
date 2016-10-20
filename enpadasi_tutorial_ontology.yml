@@ -21,65 +21,65 @@
   "terms":
   - "name": "TUTORIAL1"
     "title":
-      "en": "Weight"
+      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL1"
     "description":
-      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL1\n"
+      "en": "Weight"
     "attributes": {}
     "keywords": {}
     "terms": []
   - "name": "TUTORIAL2"
     "title":
-      "en": "Percent fat free mass"
+      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL2"
     "description":
-      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL2\n"
+      "en": "Percent fat free mass"
     "attributes": {}
     "keywords": {}
     "terms": []
   - "name": "TUTORIAL3"
     "title":
-      "en": "Resting metabolic rate"
+      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL3"
     "description":
-      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL3\n"
+      "en": "Resting metabolic rate"
     "attributes": {}
     "keywords": {}
     "terms": []
   - "name": "CMO_0000135"
     "title":
-      "en": "maximal oxygen uptake"
+      "en": "http://purl.obolibrary.org/obo/CMO_0000135"
     "description":
-      "en": "http://purl.obolibrary.org/obo/CMO_0000135\n"
+      "en": "maximal oxygen uptake"
     "attributes": {}
     "keywords": {}
     "terms": []
   - "name": "CMO_0001226"
     "title":
-      "en": "Bone mineral density"
+      "en": "http://purl.obolibrary.org/obo/CMO_0001226"
     "description":
-      "en": "http://purl.obolibrary.org/obo/CMO_0001226\n"
+      "en": "Bone mineral density"
     "attributes": {}
     "keywords": {}
     "terms": []
   - "name": "TUTORIAL4"
     "title":
-      "en": "Metabolic efficiency"
+      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL4"
     "description":
-      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL4\n"
+      "en": "Metabolic efficiency"
     "attributes": {}
     "keywords": {}
     "terms": []
   - "name": "TUTORIAL5"
     "title":
-      "en": "Fat-free mass"
+      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL5"
     "description":
-      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL5\n"
+      "en": "Fat-free mass"
     "attributes": {}
     "keywords": {}
     "terms": []
   - "name": "TUTORIAL6"
     "title":
-      "en": "Resting metabolic rate"
+      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL6"
     "description":
-      "en": "http://www.myexamplesite.org/Tutorial/#TUTORIAL6\n"
+      "en": "Resting metabolic rate"
     "attributes": {}
     "keywords": {}
     "terms": []
